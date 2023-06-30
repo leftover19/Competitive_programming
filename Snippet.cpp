@@ -121,7 +121,7 @@
         }
     }
     /*--------------------------------THE BEGINNING----------------------------*/
-     void dattebayo(){
+     void solve(){
       
        
        
@@ -134,7 +134,7 @@
         for (int i = 1; i <= t; i++)
         {
             // cout<<"Case #"<<i<<": ";
-            dattebayo();
+            solve();
         }
      
         return 0;
