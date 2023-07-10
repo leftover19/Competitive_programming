@@ -1,5 +1,4 @@
 # Competitive_programming
-1. leftover -> snippet for competitive programming
-2. learnconcept -> minimal version of leftover snippet
-                -> Question section for question description
-                -> Only useful hash defines 
+1. Snippet.cpp -------  c++ file for user snippet
+2. learnsnippet.json -------- a minimalistic snippet for learning concepts
+3. snippet.json ------- json file for c++ user snippet 
