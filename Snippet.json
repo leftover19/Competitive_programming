@@ -1,0 +1,38 @@
+{
+	"Simple snippet to use while learning concept": {
+		"prefix": "learnsnippet",
+		"body": [
+			"/*",
+			"जय श्री गणेश",
+			"Author - Vishwas Kapoor",
+			"*/",
+			"#include<bits/stdc++.h>",
+			"using namespace std;",
+			"/*------------------------------HASH DEFINE MACROS-------------------------*/",
+			"#define fl(n)      for (int i = 0; i < n; i++)",
+			"#define f(n,i)     for (int i = 0; i < n; i++)",
+			"#define IOS        ios::sync_with_stdio(false);cin.tie(0);cout.tie(0); //stores cout in buffer",
+			"#define            pb push_back",
+			"#define eb         emplace_back",
+			"#define all(x)     x.begin(), x.end()",
+			"#define endl       \"\\n\" // endl clears buffer",
+			"/*---------Question statement--------*/",
+			"/*",
+			"\t1. $0",
+			"*/",
+			"void solve(){",
+			
+			"}",
+			"int main(){",
+			"IOS",
+			"\tint t = 1;\n",
+			"\tfor (int i = 1; i <= t; i++){\n",
+			"\t\tsolve();\n",
+			"\t}",
+			"\t",
+			"return 0;",
+			"}",
+		],
+		"description": "concept snippet"
+	}
+}
