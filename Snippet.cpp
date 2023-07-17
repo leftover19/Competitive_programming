@@ -122,6 +122,11 @@ void pf(ll n)
 /*--------------------------------START----------------------------*/
 
 void solve(){
+/*Before writing code:
+1. Define problem simply.
+2. Represent mathematically.
+3. Approach, not solution, Stratergy.
+4. Algorithm. */
     
     
 
